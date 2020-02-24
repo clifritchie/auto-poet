@@ -33,7 +33,7 @@ Check out the `/examples` folder for an idea of what this does.
 ## Known Issues
 
 * As of late February 2020, Google has changed the format of image search results, breaking the `google_images_download` dependency of this project. That's just how webscraping goes. I'll implement a fix once available, but until then, image downloading isn't available.
-* Some search terms won't yield results from Google Images. Still, most search terms will yield results, and downloaded images will be combined.
+* Some search terms won't yield results from Google Images. Still, most search terms will yield results, and whatever images do get downloaded will be combined.
 
 ## Overwrought Artsy Explanation
 
